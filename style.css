@@ -1,0 +1,73 @@
+body {
+  background-color: #E2F5FA;
+}
+header {
+  background-color: #F4F4F4;
+  text-align: center;
+}
+.jumbotron {
+  background-color: #FFF;
+}
+.jumbotron .lead {
+  color: #066859;
+}
+.jumbotron .content {
+  color: #06382f;
+  font-size: 0.8em;
+}
+.card-boat {
+  margin: 2px;
+  padding-top: 15px;
+  border:none;
+}
+.card-boat img {
+  background-size: cover;
+  height: 150px;
+}
+.card-title {
+  font-size: 1.2em;
+  color: #066859;
+}
+.price {
+  color: #ad0045;
+  font-weight: bold;
+}
+.property {
+  color: #516e82;
+}
+.display-4 {
+  /* font-weight: bold; */
+  text-transform: uppercase;
+  color: #F97F8B;
+  font-size: 2em;
+}
+h3 {
+  color: #066859;
+}
+
+.badge-danger {
+  background-color: #6BE9D7;
+  color: #066859;
+}
+.badge-primary {
+  background-color: #6ABEEC;
+}
+
+footer {
+  margin-top: 20px;
+  background-color: #F4F4F4;
+  margin-bottom: 0px;
+  height: 150px;
+  padding: 20px;
+}
+
+footer #footer-logo {
+  width: 150px;
+}
+
+footer span { 
+  color: #679790;
+  float: right;
+  margin-top: 40px;
+  margin-right: 40px;
+}
