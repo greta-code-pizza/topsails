@@ -13,7 +13,8 @@ header {
 }
 .jumbotron .content {
   color: #06382f;
-  font-size: 0.8em;
+  font-size: 0.7em;
+  font-weight: normal;
 }
 .card-boat {
   margin: 2px;
